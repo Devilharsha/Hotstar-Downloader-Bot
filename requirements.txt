@@ -8,4 +8,4 @@ Pillow
 pyrogram==1.0.7
 requests
 tgcrypto
-yt-dlp==2021.04.03
+yt-dlp==2020.01.03
