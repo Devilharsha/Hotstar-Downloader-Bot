@@ -8,4 +8,4 @@ Pillow
 pyrogram==1.0.7
 requests
 tgcrypto
-widevine-dl
+widevine-l3-decryptor
