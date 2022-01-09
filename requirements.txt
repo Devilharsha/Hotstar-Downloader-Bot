@@ -8,4 +8,4 @@ Pillow
 pyrogram==1.0.7
 requests
 tgcrypto
-$ pip install ffmpeg yt-dlp aria2p
+widevine-dl
